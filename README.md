@@ -18,12 +18,12 @@ https://github.com/GodOfCCult/WeatherAPI
 
 ## Установка и запуск
 
+Введите город: Москва
+Москва: +14°C, 67% влажность, 3 м/с ветер, облачно
+
 ### 1. Клонирование репозитория
 
 ```bash
 git clone https://github.com/GodOfCCult/WeatherAPI.git
 cd WeatherAPI
 
-### Пример работы
-Введите город: Москва
-Москва: +14°C, 67% влажность, 3 м/с ветер, облачно
