@@ -14,12 +14,12 @@
 
 ## Ссылка на репозиторий
 
-https://github.com/GodOfCCult/WeatherAPI/new/main?filename=README.md
+https://github.com/GodOfCCult/WeatherAPI
 
 ## Установка и запуск
 
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/GodOfCCult-gif/WeatherAPI.git
+git clone https://github.com/GodOfCCult/WeatherAPI.git
 cd WeatherAPI
