@@ -24,6 +24,6 @@ https://github.com/GodOfCCult/WeatherAPI
 git clone https://github.com/GodOfCCult/WeatherAPI.git
 cd WeatherAPI
 
-## Пример работы
+### Пример работы
 Введите город: Москва
 Москва: +14°C, 67% влажность, 3 м/с ветер, облачно
